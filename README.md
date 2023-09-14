@@ -36,7 +36,7 @@ I am a software developer and also an environmental engineer. Passionate about r
   <tr>
     <td>Database:</td>
     <td>
-      <img src="https://cdn-icons-png.flaticon.com/128/4492/4492354.png" alt="MySQL" width="40" height="40"/>&nbsp;
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUQG3GVTw9C-IldSQhTYauM7P59JT2j57NiIxRdudFDey7yNbkcySuv9jaYOfpBAhNvw&usqp=CAU" alt="MySQL" width="40" height="40"/>&nbsp;
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8jZtBthrUf99tCuS_zLrwLtAryg1Xy14e8EgSZ4NvQ&s" alt="SQL" width="40" height="40"/>&nbsp;
     </td>
   </tr>
